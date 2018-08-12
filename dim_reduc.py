@@ -14,3 +14,7 @@ print(results_iso)
 results_lle = lle(data)
 print(results_lle)
 
+# tsne
+results_tsne = tsne(data)
+print(results_tsne)
+
