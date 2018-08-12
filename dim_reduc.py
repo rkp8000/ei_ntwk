@@ -10,3 +10,7 @@ print(results_pca)
 results_iso = iso(data)
 print(results_iso)
 
+# local lin. embedding
+results_lle = lle(data)
+print(results_lle)
+
