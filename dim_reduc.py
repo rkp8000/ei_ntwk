@@ -6,3 +6,7 @@ data = get_data()
 results_pca = pca(data)
 print(results_pca)
 
+# isomap
+results_iso = iso(data)
+print(results_iso)
+
